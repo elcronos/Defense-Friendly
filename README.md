@@ -1,5 +1,5 @@
 # Defense_Friendly
-Code and data related WACV 2021 paper: "Defense-friendly Images in Adversarial Attacks: Dataset and Metrics for Perturbation Difficulty"
+Code and data related WACV 2021 paper: "Defense-friendly Images in Adversarial Attacks: Dataset and Metrics for Perturbation Difficulty" [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Pestana_Defense-Friendly_Images_in_Adversarial_Attacks_Dataset_and_Metrics_for_Perturbation_WACV_2021_paper.pdf)
 
 # Dataset
 The dataset contains 3 CSV files with information about the ɛ-robustness levels of the images in the dataset.
